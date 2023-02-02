@@ -1,6 +1,6 @@
 # learn git
 
-simple depot to learn GIT
+Simple repository to learn GIT
 
 
 
